@@ -80,5 +80,3 @@ Dataset includes 14 features which help us detemine the patient has heart diseas
     4. 3 = Reversible defect, suggesting ischemia or reduced blood flow due to coronary artery blockage, which can be treated or improved with interventions.
 
 14. ***target*** : (0 = no disease, 1 = disease)
-
-15. 
